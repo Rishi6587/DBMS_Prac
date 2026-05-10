@@ -7,11 +7,6 @@ This repository contains the SQL and MongoDB scripts for the DBMS Practical Exam
 * **Practical Documentation & Files:** [Click Here to Access Google Drive](https://drive.google.com/drive/folders/1P03k4vtTejHpL_fPW99jEs_2rfHOv7Vj)
 
 ---
-
-Understood. Let's take it one step at a time to ensure total accuracy. We will start with **Practical No. 01**.
-
-I have separated the setup code (Input) from the query results (Output). You can copy each block individually.
-
 ---
 
 ## Practical No 01: Database and Table Creation (CollegeDB)
@@ -437,7 +432,3 @@ SELECT * FROM Student;
 SELECT * FROM Instructor;
 
 ```
-
-## 📁 Important Resources
-
-* **Practical Documentation & Files:** [Google Drive Link](https://drive.google.com/drive/folders/1P03k4vtTejHpL_fPW99jEs_2rfHOv7Vj)
